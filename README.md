@@ -13,3 +13,7 @@ Outputs:
 Required MATLAB Add-Ons:
 - Statistics and Machine Learning Toolbox
 - Curve Fitting Toolbox
+
+References to cite if you use this app:
+1. Nedrelow DS, Townsend JM, Detamore MS. The ogden model for hydrogels in tissue engineering: Modulus determination with compression to failure. J Biomech 2023;152:111592; doi:10.1016/j.jbiomech.2023.111592
+2. Kiyotake EA, Thomas EE, Nimmo SL, et al. Characterization of pentenoate-functionalized hyaluronic acid and pentenoate-functionalized gelatin hydrogels for printing and future surgical placement in regenerative medicine applications. Materialia 2024;38:102242; doi:10.1016/j.mtla.2024.102242
